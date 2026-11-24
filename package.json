@@ -1,0 +1,13 @@
+{
+"name": "storm-royale-3d-multiplayer",
+"version": "1.0.0",
+"description": "Online 3D Battle Royale powered by Three.js, Express, and Socket.IO",
+"main": "server.js",
+"scripts": {
+"start": "node server.js"
+},
+"dependencies": {
+"express": "^4.18.2",
+"socket.io": "^4.7.5"
+}
+}
